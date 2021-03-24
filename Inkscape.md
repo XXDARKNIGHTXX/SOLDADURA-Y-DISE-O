@@ -27,3 +27,11 @@ Imagen vectorial
 ![DibujoImagenRasterización50](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n150.svg.png)
 
 ![DibujoImagenRestrización150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n150.svg.png)
+
+## LeonRosaBonheur
+
+![LeonRosaBonheur3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur3.png)
+
+![LeonRosaBonheur50](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur50.png)
+
+![LeonRosaBonheur150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur150.png)

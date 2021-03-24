@@ -3,7 +3,6 @@
 [Extra arduino](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/Extra_Arduino.md#extra_arduinomd)
 
 [Inkscape](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/Inkscape.md#inkscape-)
-(https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/imagenvectorial.svg)
 
 [Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
 

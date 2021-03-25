@@ -70,10 +70,18 @@ Dibujo modificado cambiando el color, y con marcadores.
 
 Dibujo modificado en BlancoYNegro.
 
-## CurvasYLinias
+## CurvasYLinias🐽 🐷
 
 Dibujo de CurvasYLinias.
 
 ![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/35e456c30e08b8336cfa217698c183064917bab5/CURVASYLINIAS.svg)
 
 ![Circuito05](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-25%2013-46-34.png)
+
+## DibujoHarleyQuiin🐰🐭
+
+![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/ca5b7cd6dd03b2deb58df7729017ba04b8219067/HarleyQuiin.svg)
+
+![Circuito06](https://user-images.githubusercontent.com/78345788/112475867-937a0380-8d71-11eb-8f41-fd6fe3b6269b.png)
+
+

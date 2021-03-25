@@ -16,8 +16,6 @@ Si he utilizado simbolos.
 
 Si he descubierto que no hay que dibujar emojis.
 
-## Rasterización🦩🐯
-
 Imagen vectorial
 
 ![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/ec3f9e9ab8376b4b2eef464c2368847d3266c4d7/imagenvectorial.svg)
@@ -28,7 +26,7 @@ Imagen vectorial
 
 ![DibujoImagenRestrización150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n150.svg.png)
 
-## LeonRosaBonheur rasterización
+## LeonRosaBonheur rasterización🦩🐯
 
 He hecho también rasterización a diferentes resoluciones del León de Rosa Bonheur
 
@@ -38,7 +36,7 @@ He hecho también rasterización a diferentes resoluciones del León de Rosa Bon
 
 ![LeonRosaBonheur150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur150.png)
 
-## Vectorización Leon Rosa Bonheur
+## Vectorización Leon Rosa Bonheur🐾🐿️
 
 Estas son las vectorizaciones de prueba que hice del león de Rosa Bonheur
 
@@ -48,7 +46,7 @@ Estas son las vectorizaciones de prueba que hice del león de Rosa Bonheur
 
 ![LeonRosaBonheur150BlancoYNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-03-24%2014-01-421.png)
 
-## Relleno Color De Trazo Estilo De Trazo 
+## Relleno Color De Trazo Estilo De Trazo🐻‍❄️
 
 Dibujo original que vamos a modifcar: (un circulo)
 
@@ -64,4 +62,4 @@ Dibujo modificado cambiando el relleno de esta forma:
 
 ![circulo03](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/bb58279419769f0c8fce5728b81fbffe734ac345/RELLANO%20COLOR%20DE%20TRAZO/circulo03.svg)
 
-
+Dibujo modificado cambiando el color, y con marcadores.

@@ -28,13 +28,19 @@ Imagen vectorial
 
 ![DibujoImagenRestrización150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n150.svg.png)
 
-## LeonRosaBonheur
+## LeonRosaBonheur rasterización
+
+He hecho también rasterización a diferentes resoluciones del León de Rosa Bonheur
 
 ![LeonRosaBonheur3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur3.png)
 
 ![LeonRosaBonheur50](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur50.png)
 
 ![LeonRosaBonheur150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/LeonRosaBonheur150.png)
+
+## Vectorización Leon Rosa Bonheur
+
+Estas son las vectorizaciones de prueba que hice del león de Rosa Bonheur
 
 ![LeonRosaBonheur3BlancoYNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-03-24%2013-51-30.png)
 
@@ -44,6 +50,18 @@ Imagen vectorial
 
 ## Relleno Color De Trazo Estilo De Trazo 
 
+Dibujo original que vamos a modifcar: (un circulo)
+
 ![Circulo01](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/45bd41a9efb3f81eaa8dd101a88bad4a70720215/RELLANO%20COLOR%20DE%20TRAZO/circulo01.svg)
 
+Dibujo modificado, únicamente hemos cambiado el relleno.
+
 ![Circulo02](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/8fc14f8e6d57e6d0b852b46927c3497207c30961/RELLANO%20COLOR%20DE%20TRAZO/circulo02.svg)
+
+Dibujo modificado cambiando el relleno de esta forma:
+
+(captura)
+
+(circulo 03)
+
+

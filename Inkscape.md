@@ -46,3 +46,4 @@ Imagen vectorial
 
 ![Circulo01](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/45bd41a9efb3f81eaa8dd101a88bad4a70720215/RELLANO%20COLOR%20DE%20TRAZO/circulo01.svg)
 
+![Circulo02](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/8fc14f8e6d57e6d0b852b46927c3497207c30961/RELLANO%20COLOR%20DE%20TRAZO/circulo02.svg)

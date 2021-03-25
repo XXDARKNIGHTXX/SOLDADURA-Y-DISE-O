@@ -69,3 +69,11 @@ Dibujo modificado cambiando el color, y con marcadores.
 ![Circulo04](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/8a11c11042c1c03e7d7dd01a9880fdba5f58fd3b/RELLANO%20COLOR%20DE%20TRAZO/circulo04.svg)
 
 Dibujo modificado en BlancoYNegro.
+
+## CurvasYLinias
+
+Dibujo de CurvasYLinias.
+
+![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/35e456c30e08b8336cfa217698c183064917bab5/CURVASYLINIAS.svg)
+
+![Circuito05](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-25%2013-46-34.png)

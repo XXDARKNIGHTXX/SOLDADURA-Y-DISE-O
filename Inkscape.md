@@ -63,3 +63,9 @@ Dibujo modificado cambiando el relleno de esta forma:
 ![circulo03](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-25%2010-45-33.png)
 
 Dibujo modificado cambiando el color, y con marcadores.
+
+![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%204%202021-03-25%2012-24-37.png)
+
+![Circulo04](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/8a11c11042c1c03e7d7dd01a9880fdba5f58fd3b/RELLANO%20COLOR%20DE%20TRAZO/circulo04.svg)
+
+Dibujo modificado en BlancoYNegro.

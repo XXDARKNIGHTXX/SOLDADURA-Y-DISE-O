@@ -1,7 +1,7 @@
 # Inkscape 🐺🐨
 
 
-## Ejercicio conceptos
+## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
 
@@ -16,7 +16,7 @@ Si he utilizado simbolos.
 
 Si he descubierto que no hay que dibujar emojis.
 
-## Rasterización
+## Rasterización🦩🐯
 
 Imagen vectorial
 
@@ -41,3 +41,6 @@ Imagen vectorial
 ![LeonRosaBonheur50BlancoYNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-03-24%2014-01-42.png)
 
 ![LeonRosaBonheur150BlancoYNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-03-24%2014-01-421.png)
+
+## Relleno Color De Trazo Estilo De Trazo 
+

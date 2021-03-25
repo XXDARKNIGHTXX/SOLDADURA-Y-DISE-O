@@ -44,3 +44,5 @@ Imagen vectorial
 
 ## Relleno Color De Trazo Estilo De Trazo 
 
+![Circulo01](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/45bd41a9efb3f81eaa8dd101a88bad4a70720215/RELLANO%20COLOR%20DE%20TRAZO/circulo01.png)
+

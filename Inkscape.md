@@ -75,7 +75,7 @@ Dibujo modificado cambiando el color, y con marcadores.
 
 Dibujo modificado en BlancoYNegro.
 
-## CurvasYLinias🐽 🐷
+## Curvas u Líneas  (Bézier) 🐽 🐷
 
 Dibujo de CurvasYLinias.
 
@@ -84,6 +84,8 @@ Dibujo de CurvasYLinias.
 ![Circuito05](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-25%2013-46-34.png)
 
 ## DibujoHarleyQuiin🐰🐭
+
+Esta es una imagen que he cogido de aquì: (file:///home/auxiliarinformatica/Escritorio/RELLANO%20COLOR%20DE%20TRAZO/escuadron-suicida-harley-quinn-i30612.jpg)
 
 ![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/ca5b7cd6dd03b2deb58df7729017ba04b8219067/HarleyQuiin.svg)
 

@@ -14,7 +14,7 @@
 
 [Curvas y Líneas Bézier 🐽 🐷](#curvas-u-líneas--bézier--)
 
-[Jordan Corte Láser🐸🐎](#)
+[Jordan Corte Láser🐸🐎](#corte-láser-jordan)
 
 ## Ejercicio conceptos🐧🦓
 

@@ -14,6 +14,8 @@
 
 [Curvas y Líneas Bézier 🐽 🐷](#curvas-u-líneas--bézier--)
 
+[Jordan Corte Láser🐸🐎](#)
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
@@ -101,4 +103,8 @@ Esta es una imagen que he cogido de aquì: (https://static.posters.cz/image/750/
 
 ![Circuito06](https://user-images.githubusercontent.com/78345788/112475867-937a0380-8d71-11eb-8f41-fd6fe3b6269b.png)
 
+## CORTE LÁSER JORDAN🐸🐎
 
+![Jordan](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3b9fee5380f64a21eea83628adb8e04515045123/JORDANCORTEL%C3%81SER.svg)
+
+esta imagen es de Jordan y me gusta mucho porque porque me gusta por su fama.

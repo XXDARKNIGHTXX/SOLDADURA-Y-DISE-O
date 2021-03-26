@@ -8,7 +8,7 @@
 
 [LeonRosaBonheur rasterización🦩🐯](#leonrosabonheur-rasterización)
 
-[Vectorización Leon Rosa Bonheur🐾🐿️](#vectorización-leon-rosa-bonheur)
+[Vectorización Leon Rosa Bonheur🐾🐿️](#vectorización-leon-rosa-bonheur%EF%B8%8F)
 
 [Relleno Color De Trazo Estilo De Trazo🐻‍❄️](#relleno-color-de-trazo-estilo-de-trazo%EF%B8%8F)
 

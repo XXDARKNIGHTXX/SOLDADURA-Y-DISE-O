@@ -10,6 +10,10 @@
 
 [Vectorización Leon Rosa Bonheur🐾🐿️](vectorización-leon-rosa-bonheur)
 
+[Relleno Color De Trazo Estilo De Trazo🐻‍❄️](relleno-color-de-trazo-estilo-de-trazo)
+
+[Curvas y Líneas Bézier 🐽 🐷](curvas-u-líneas--bézier--)
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
@@ -81,7 +85,7 @@ Dibujo modificado cambiando el color, y con marcadores.
 
 Dibujo modificado en BlancoYNegro.
 
-## Curvas u Líneas  (Bézier) 🐽 🐷
+## Curvas y Líneas  (Bézier) 🐽 🐷
 
 Dibujo de CurvasYLinias.
 

@@ -25,11 +25,11 @@ Imagen vectorial
 
 ![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/ec3f9e9ab8376b4b2eef464c2368847d3266c4d7/imagenvectorial.svg)
 
-[!DibujoImagenRasterización](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-26%2009-38-15.png)
+![DibujoImagenRasterización](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-26%2009-38-15.png)
 
 ![DibujoImagenRasterización3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n.svg.png)
 
-![DibujoImagenRasterización50](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n150.svg.png)
+![DibujoImagenRasterización50](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n50.svg.png)
 
 ![DibujoImagenRestrización150](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/ImagenRasterizaci%C3%B3n150.svg.png)
 

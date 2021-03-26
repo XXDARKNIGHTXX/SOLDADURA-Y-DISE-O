@@ -8,11 +8,11 @@
 
 [LeonRosaBonheur rasterización🦩🐯](#leonrosabonheur-rasterización)
 
-[Vectorización Leon Rosa Bonheur🐾🐿️](vectorización-leon-rosa-bonheur)
+[Vectorización Leon Rosa Bonheur🐾🐿️](#vectorización-leon-rosa-bonheur)
 
-[Relleno Color De Trazo Estilo De Trazo🐻‍❄️](relleno-color-de-trazo-estilo-de-trazo)
+[Relleno Color De Trazo Estilo De Trazo🐻‍❄️](#relleno-color-de-trazo-estilo-de-trazo)
 
-[Curvas y Líneas Bézier 🐽 🐷](curvas-u-líneas--bézier--)
+[Curvas y Líneas Bézier 🐽 🐷](#curvas-u-líneas--bézier--)
 
 ## Ejercicio conceptos🐧🦓
 

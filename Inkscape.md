@@ -10,7 +10,7 @@
 
 [Vectorización Leon Rosa Bonheur🐾🐿️](#vectorización-leon-rosa-bonheur)
 
-[Relleno Color De Trazo Estilo De Trazo🐻‍❄️](#relleno-color-de-trazo-estilo-de-trazo)
+[Relleno Color De Trazo Estilo De Trazo🐻‍❄️](#relleno-color-de-trazo-estilo-de-trazo%EF%B8%8F)
 
 [Curvas y Líneas Bézier 🐽 🐷](#curvas-u-líneas--bézier--)
 

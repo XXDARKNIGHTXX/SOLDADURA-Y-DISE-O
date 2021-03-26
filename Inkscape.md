@@ -6,6 +6,10 @@
 
 [DibujoHarleyQuiin🐰🐭](#dibujoharleyquiin)
 
+[LeonRosaBonheur rasterización🦩🐯](#leonrosabonheur-rasterización)
+
+[Vectorización Leon Rosa Bonheur🐾🐿️](vectorización-leon-rosa-bonheur)
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)

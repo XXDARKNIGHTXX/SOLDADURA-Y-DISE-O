@@ -107,4 +107,4 @@ Esta es una imagen que he cogido de aquì: (https://static.posters.cz/image/750/
 
 ![Jordan](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3b9fee5380f64a21eea83628adb8e04515045123/JORDANCORTEL%C3%81SER.svg)
 
-[esta imagen es de Jordan y me gusta mucho porque me gusta por su fama]
+esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.

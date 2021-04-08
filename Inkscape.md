@@ -22,6 +22,8 @@
 
 [Variacion Mitsubshi🦇🐅](#mitsubshi-motors)
 
+[CirculoFagor🦋🐞](#)
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
@@ -135,3 +137,8 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ![Variacion Mitsubshi Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2012-44-09.png)
 
+## CirculoFagor🦋🐞
+
+![CirculoFagor](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/dea123bf0cce02472687e54ee16adfd4d3caea8a/RELLANO%20COLOR%20DE%20TRAZO/CirculoFAGOR.svg)
+
+![CirculoFagorCapturaDePantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2013-10-09.png)

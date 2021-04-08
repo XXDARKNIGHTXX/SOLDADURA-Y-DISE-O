@@ -114,3 +114,9 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 ## Underground🐢🦉
 
 ![Underground](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-48-00.png)
+
+![UndergroundCirculo](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-55-11CIRCULO.png)
+
+![UndergroundCuadrado](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-55-40CUADRADO.png)
+
+![UndergroundTexto](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-56-02TEXTO.png)

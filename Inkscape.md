@@ -120,3 +120,9 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 ![UndergroundCuadrado](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-55-40CUADRADO.png)
 
 ![UndergroundTexto](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-56-02TEXTO.png)
+
+## Mitsubshi Motors🐔🦄
+
+![Mitsubshi Motors](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/d793b498acb44b252ee8d7bd7d02b4fd8354b7aa/RELLANO%20COLOR%20DE%20TRAZO/mitsubishi%20motors.svg)
+
+![Mitsubshi Motors](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2012-34-19MITSUBISHIMOTORS.png)

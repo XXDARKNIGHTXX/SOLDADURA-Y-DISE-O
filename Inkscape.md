@@ -20,6 +20,8 @@
 
 [Mitsubshi Motors🐔🦄](#mitsubshi-motors)
 
+[Variacion Mitsubshi🦇🐅](#mitsubshi-motors)
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
@@ -128,3 +130,8 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 ![Mitsubshi Motors](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/d793b498acb44b252ee8d7bd7d02b4fd8354b7aa/RELLANO%20COLOR%20DE%20TRAZO/mitsubishi%20motors.svg)
 
 ![Mitsubshi Motors](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2012-34-19MITSUBISHIMOTORS.png)
+
+![Variacion Mitsubshi](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3188f6bd4e74fd80df4def5c72acee18565e55fd/RELLANO%20COLOR%20DE%20TRAZO/VARIACIONMITSUBISHI.svg)
+
+![Variacion Mitsubshi Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2012-44-09.png)
+

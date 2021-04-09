@@ -26,6 +26,8 @@
 
 [Nike🦎🦖](#nike)
 
+[MarcMarquez93](#)
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
@@ -150,3 +152,10 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 ![Nike](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/78df3a4c6535882584f0ced6f71141b1e5545dbf/RELLANO%20COLOR%20DE%20TRAZO/NIKEVICTOR.svg)
 
 ![Nike Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-09%2012-49-21.png)
+
+### MarcMarquez93🐣🦓
+
+![MarcMarquez93](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/7751175055afcd95914ac235eead2333e7aa677a/RELLANO%20COLOR%20DE%20TRAZO/MarcMarquez93.svg)
+
+![MarcMarquez93 Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-09%2013-21-30.png)
+

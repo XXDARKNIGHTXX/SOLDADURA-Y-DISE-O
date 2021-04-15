@@ -163,5 +163,5 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ### Soldadura Y Fresado🦖🦍
 
-![Soldadura Y Fresado1]()
+![Soldadura Y Fresado1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(3).jpeg)
 

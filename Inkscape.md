@@ -161,3 +161,7 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ![MarcMarquez93PNG](https://vinilos-stica.es/90104-large_default/marquez-93-hormiga-paredes.jpg)
 
+### Soldadura Y Fresado🦖🦍
+
+![Soldadura Y Fresado1]()
+

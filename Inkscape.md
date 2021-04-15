@@ -165,3 +165,12 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ![Soldadura Y Fresado1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(3).jpeg)
 
+![Soldadura Y Fresado2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(4).jpeg)
+
+![Soldadura Y Fresado3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.28.jpeg)
+
+![Soldadura Y Fresado4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.28(1).jpeg)
+
+![Soldadura Y Fresado5](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.28(5).jpeg)
+
+![Soldadura Y Fresado6](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.28(5).jpeg)

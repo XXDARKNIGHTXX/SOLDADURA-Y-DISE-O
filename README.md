@@ -4,3 +4,4 @@
 
 [Inkscape](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/Inkscape.md#inkscape-)
 
+[Corte Laser](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/corte%20laser.MD#apuntes-clase-corte-laser)

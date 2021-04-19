@@ -64,7 +64,7 @@ Aqui esta explicando el david para que sirven los botones de la maquina de trall
 
 Objectos hechos por Javi,Marcos el leopardo,PlayBoy hecho por madera y por una maquina de laser.
 
-* [Salida Viernes a Tinkerers7](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(4).jpeg)
+* [Maquinas dentro de la Sala](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(4).jpeg)
  
  Maquinas de Tinkerers Chichell roja,que corta y es de hierro
 

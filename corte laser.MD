@@ -40,12 +40,12 @@ la luz a traves del laser
 
 ## Salida Viernes Tinkerers🦆🦘
 
-*[Salida Viernes a Tinkerers1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.27.jpeg)
+* [Salida Viernes a Tinkerers1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.27.jpeg)
 
 aqui esta un modelo de broca de metall.
 
-*[Salida Viernes a Tinkerers2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09(1).jpeg)
+* [Salida Viernes a Tinkerers2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09(1).jpeg)
 
-*[Salida Viernes a Tinkerers3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09.jpeg)
+* [Salida Viernes a Tinkerers3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09.jpeg)
 
-*[Salida Viernes a Tinkerers4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(3).jpeg)
+* [Salida Viernes a Tinkerers4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(3).jpeg)

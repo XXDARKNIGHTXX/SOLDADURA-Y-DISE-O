@@ -43,7 +43,7 @@ la luz a traves del laser
 ## Diseño inicial para cortar con láser
 
 ¿Qué imagen he escogido y por qué? 
-* [He cogido la imagen de Jordan](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3b9fee5380f64a21eea83628adb8e04515045123/JORDANCORTEL%C3%81SER.svg)
+* [He cogido la imagen de Jordan](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3b9fee5380f64a21eea83628adb8e04515045123/JORDANCORTEL%C3%81SER.svg) por que a mi me gusta el Michael Jordan porque juega muy bien a baloncesto y su ropa me encanta y es un buen jugador
 
 
 ¿QUé características tiene la imagen? 

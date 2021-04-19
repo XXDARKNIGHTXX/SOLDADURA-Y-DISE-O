@@ -56,7 +56,7 @@ Aqui esta un modelo de broca de metall mas gruesa.
 
 Objectos hechos en color, y hecho con madera y una bamba creada por el mismo Tinkercard.
 
-* [Salida Viernes a Tinkerers5](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(5).jpeg)
+* [Botones de la Maquina](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(5).jpeg)
 
 Aqui esta explicando el david para que sirven los botones de la maquina de trallado que corta madera.
 

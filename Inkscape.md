@@ -28,7 +28,7 @@
 
 [MarcMarquez93🐣🦓](#marcmarquez93)
 
-[Letra De HarryPotter🐘🦙]()
+[Letra De HarryPotter🐘🦙](#)
 
 ## Ejercicio conceptos🐧🦓
 
@@ -182,3 +182,12 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 ![Soldadura Y Fresado8](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(1).jpeg)
 
 ![Soldadura Y Fresado9](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(2).jpeg)
+
+### Letra De Harry Potter🦇 🦨
+
+![Letra De Harry Potter con mi Nombre Y apellido](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-41-08.png)
+Mi Nombre y mi Apellido con las Letras De Harry Potter
+
+![Captura De Pantalla descargar la letra De Harry Potter](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-31-34.png)
+
+![Captura De Pantalla

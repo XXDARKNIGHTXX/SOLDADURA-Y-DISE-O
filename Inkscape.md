@@ -192,3 +192,5 @@ Mi Nombre y mi Apellido con las Letras De Harry Potter
 Tipo de Letra de HarryPotter
 
 ![Captura De Pantalla de pagina de tipo de letras](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-30-24.png)
+Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi muchos tipos de letra  Disney,Arial,Aakar,Sang-Serif etc...
+

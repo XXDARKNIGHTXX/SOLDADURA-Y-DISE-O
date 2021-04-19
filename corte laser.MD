@@ -53,3 +53,5 @@ una maquina de tallado que corta madera.
 aqui esta un modelo de broca de metall mas gruesa.
 
 * [Salida Viernes a Tinkerers4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(3).jpeg)
+
+Objectos hechos en color, y hecho con madera y una bamba creada por el mismo Tinkercard.

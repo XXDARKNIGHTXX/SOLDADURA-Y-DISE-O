@@ -1,4 +1,6 @@
-# Apuntes Clase Corte Laser
+# Corte láser
+
+## Apuntes de corte láser
 
 Clase base
 
@@ -38,6 +40,38 @@ La normal de una superficie es la recta perpendicular de una superficie en un pu
 
 la luz a traves del laser
 
+## Diseño inicial para cortar con láser
+
+¿Qué imagen he escogido y por qué? 
+
+
+¿QUé características tiene la imagen? 
+
+¿Qué características tiene la imagen para que la podamos cortar con láser?
+
+## Viaje a la UPC (antes de cortar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Salida Viernes Tinkerers
 
 * [Bronca Gruesa](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.27.jpeg)
@@ -74,16 +108,10 @@ Objectos hechos por Javi,Marcos el leopardo,PlayBoy hecho por madera y por una m
 
 * [Pagina de Letra de Harry Potter](https://www.dafont.com/es/harry-p.font)
 
-## Tipografía
 
-Tipografía funciona con numeros binarios y le tienes que decir si es Arial,Impact,Helveticm,TimeNewRoman...
-
-Las tipografías son una definición grafica de caracteres
-
-.TTF = /Tu Tai Fon/ True Type Font
-
-.OTF = /Open Tai Fon/ Open Type Font 
 
 ## Enfocar el láser.
 
 El rayo sale del tubo de CO2 con un HAZ de 2cm, se refleja en un espejo interno del láser, se refleja en un segundo espejo que esta en el puente y despues se refleja en un tercer espejo que esta en la cabeza y para llegar a una lente focal que convierte el HAZ en una superficie de 0,01mm.
+
+

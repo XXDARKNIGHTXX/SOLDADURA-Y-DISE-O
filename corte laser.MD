@@ -8,21 +8,21 @@ máquinas con cuchillo (https://www.youtube.com/watch?v=PG9lJOnNTzQ)
 
 máquinas con emisor de plasma si caletamos energia al gas hacemos plasma, la temperatura (https://forestscientific.com/cnc-plasma-cutters/)
 
-[máquinas de chorro de agua a presión](https://www.wazer.com/)
+* [máquinas de chorro de agua a presión](https://www.wazer.com/)
 
-[máquinas de FrogWireTM](https://www.frog3d.com/frogwire)
+* [máquinas de FrogWireTM](https://www.frog3d.com/frogwire)
 
-[máquinas de Hilo3D](https://www.youtube.com/watch?v=CJbWYmMbHKI&list=TLGGEhzSwE6Ly4oxNTA0MjAyMQ)
+* [máquinas de Hilo3D](https://www.youtube.com/watch?v=CJbWYmMbHKI&list=TLGGEhzSwE6Ly4oxNTA0MjAyMQ)
 
 ## CAD, CAM. Qué son
 
-[computer Aided Machining]()
+* [computer Aided Machining]()
 
-[computer Aiden Desing]()
+* [computer Aiden Desing]()
 
 ## Cortadora de vinilos
 
-[cortadora de vinillos]()
+* [cortadora de vinillos]()
 
 ## Láser
 
@@ -38,7 +38,7 @@ La normal de una superficie es la recta perpendicular de una superficie en un pu
 
 la luz a traves del laser
 
-## Salida Viernes Tinkerers🦆🦘
+## Salida Viernes Tinkerers
 
 * [Salida Viernes a Tinkerers1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.27.jpeg)
 

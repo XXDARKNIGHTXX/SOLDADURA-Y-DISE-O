@@ -74,5 +74,13 @@ Objectos hechos por Javi,Marcos el leopardo,PlayBoy hecho por madera y por una m
 
 * [Pagina de Letra de Harry Potter](https://www.dafont.com/es/harry-p.font)
 
+## Tipografía
 
+Tipografía funciona con numeros binarios y le tienes que decir si es Arial,Impact,Helveticm,TimeNewRoman...
+
+Las tipografías son una definición grafica de caracteres
+
+.TTF = Tu Tai Fon
+
+.OTF = Open Tai Fon
 

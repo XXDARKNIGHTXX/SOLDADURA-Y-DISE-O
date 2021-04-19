@@ -69,5 +69,6 @@ Objectos hechos por Javi,Marcos el leopardo,PlayBoy hecho por madera y por una m
  Maquinas de Tinkerers Chichell roja,que corta y es de hierro
 
 * [Salida Viernes a Tinkerers8](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(4).jpeg)
+  Tipos de Letras de Harry Potter
 
 * [Pagina de Letra de Harry Potter](https://www.dafont.com/es/harry-p.font)

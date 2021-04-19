@@ -80,7 +80,7 @@ Tipografía funciona con numeros binarios y le tienes que decir si es Arial,Impa
 
 Las tipografías son una definición grafica de caracteres
 
-.TTF = Tu Tai Fon
+.TTF = /Tu Tai Fon/ True Type Font
 
-.OTF = Open Tai Fon
+.OTF = /Open Tai Fon/ Open Type Font 
 

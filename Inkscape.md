@@ -183,7 +183,17 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ![Soldadura Y Fresado9](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(2).jpeg)
 
-### Letra De Harry Potter🦇 🦨
+### Tipografía
+
+Tipografía funciona con numeros binarios y le tienes que decir si es Arial,Impact,Helveticm,TimeNewRoman...
+
+Las tipografías son una definición grafica de caracteres
+
+.TTF = /Tu Tai Fon/ True Type Font
+
+.OTF = /Open Tai Fon/ Open Type Font 
+
+#### Letra De Harry Potter🦇 🦨
 
 ![Letra De Harry Potter con mi Nombre Y apellido](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-41-08.png)
 Mi Nombre y mi Apellido con las Letras De Harry Potter

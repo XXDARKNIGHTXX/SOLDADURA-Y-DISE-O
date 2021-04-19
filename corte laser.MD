@@ -43,6 +43,7 @@ la luz a traves del laser
 ## Diseño inicial para cortar con láser
 
 ¿Qué imagen he escogido y por qué? 
+* [He cogido la imagen de Jordan](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3b9fee5380f64a21eea83628adb8e04515045123/JORDANCORTEL%C3%81SER.svg)
 
 
 ¿QUé características tiene la imagen? 

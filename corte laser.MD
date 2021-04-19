@@ -60,7 +60,7 @@ Objectos hechos en color, y hecho con madera y una bamba creada por el mismo Tin
 
 Aqui esta explicando el david para que sirven los botones de la maquina de trallado que corta madera.
 
-* [Salida Viernes a Tinkerers6](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08.jpeg) 
+* [Figuras de Javi,Marcos hechas por lo que le gusta y de madera](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08.jpeg) 
 
 Objectos hechos por Javi,Marcos el leopardo,PlayBoy hecho por madera y por una maquina de laser.
 

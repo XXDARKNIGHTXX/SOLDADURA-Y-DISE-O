@@ -28,7 +28,7 @@
 
 [MarcMarquez93🐣🦓](#marcmarquez93)
 
-[Letra De HarryPotter🐘🦙](#)
+[Letra De HarryPotter🐘🦙](#letra-de-harry-potter-)
 
 ## Ejercicio conceptos🐧🦓
 
@@ -190,4 +190,4 @@ Mi Nombre y mi Apellido con las Letras De Harry Potter
 
 ![Captura De Pantalla descargar la letra De Harry Potter](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-31-34.png)
 
-![Captura De Pantalla
+![Captura De Pantalla de pagina de tipo de letras](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-30-24.png)

@@ -42,16 +42,22 @@ la luz a traves del laser
 
 * [Salida Viernes a Tinkerers1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.27.jpeg)
 
-aqui esta un modelo de broca de metall.
+Aqui esta un modelo de broca de metall.
 
 * [Salida Viernes a Tinkerers2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09(1).jpeg)
 
-una maquina de tallado que corta madera.
+Una maquina de tallado que corta madera.
 
 * [Salida Viernes a Tinkerers3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09.jpeg)
 
-aqui esta un modelo de broca de metall mas gruesa.
+Aqui esta un modelo de broca de metall mas gruesa.
 
 * [Salida Viernes a Tinkerers4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(3).jpeg)
 
 Objectos hechos en color, y hecho con madera y una bamba creada por el mismo Tinkercard.
+
+* [Salida Viernes a Tinkerers5](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08(5).jpeg)
+
+Aqui esta explicando el david para que sirven los botones de la maquina de trallado que corta madera.
+
+* [Salida Viernes a Tinkerers6](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.08.jpeg)

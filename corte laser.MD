@@ -44,7 +44,7 @@ la luz a traves del laser
 
 Aqui esta un modelo de broca de metall.
 
-* [Salida Viernes a Tinkerers2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09(1).jpeg)
+* [Maquina de Fresado](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-19%20at%2009.19.09(1).jpeg)
 
 Una maquina de tallado que corta madera.
 

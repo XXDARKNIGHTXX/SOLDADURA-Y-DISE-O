@@ -6,4 +6,4 @@
 
 [Corte Laser](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/corte%20laser.MD#apuntes-clase-corte-laser)
 
-[Cosas De SOldadura](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/SOLDADURA.MD)
+[Cosas De Soldadura](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/SOLDADURA.MD)

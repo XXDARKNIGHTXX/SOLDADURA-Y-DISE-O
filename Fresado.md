@@ -16,6 +16,12 @@ Resultado de la imagen en png con fondo blanco. Y con fondo transparente
 
 ¿Cómo se pasa de png de internet al png que necesita mods?
 
+Utilizamos inkscape. 
+ 
+ 
+¿Cómo utilizamos inkscape para pasar del png de internet al que necesita mods?
+
+Usamos una Imagen de PNG en Blanco Y Negro, y la copiamos en el Inkscape.
 
 ## Configurar mods
 
@@ -27,6 +33,7 @@ http://mods.cba.mit.edu/
 
 
 ### Pasos para pasar de PNG a .rml
+
 
 
 #### Intenté subir la harley quinn y no funcionó
@@ -43,5 +50,7 @@ Paso 2
 Resultado en imágenes
 
 Archivo .rml 
+
+https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/stich.png.rml
 
 ## Fresado 

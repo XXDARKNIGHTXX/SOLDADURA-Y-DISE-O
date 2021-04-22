@@ -9,8 +9,11 @@
 He cogido la imagen de Harley Quinn porque es una de las que me gusta y és vilana y mi pelicula favorita és EscuadronSuicida
 
 Resultado de la imagen en png con fondo blanco. Y con fondo transparente
+
 * [StichNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/stich.png)
+
 * [StichBlanco](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/stich%20fondo%20blanco.png)
+
 ¿Cómo se pasa de png de internet al png que necesita mods?
 
 

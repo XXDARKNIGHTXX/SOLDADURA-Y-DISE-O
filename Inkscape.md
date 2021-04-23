@@ -73,6 +73,8 @@ He hecho también rasterización a diferentes resoluciones del León de Rosa Bon
 
 ## Vectorización Leon Rosa Bonheur🐾🐿️
 
+*! Vectorización Leeon Rosa Bonheur
+
 Estas son las vectorizaciones de prueba que hice del león de Rosa Bonheur
 
 ![LeonRosaBonheur3BlancoYNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-03-24%2013-51-30.png)
@@ -82,6 +84,8 @@ Estas son las vectorizaciones de prueba que hice del león de Rosa Bonheur
 ![LeonRosaBonheur150BlancoYNegro](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-03-24%2014-01-421.png)
 
 ## Relleno Color De Trazo Estilo De Trazo🐻‍❄️
+
+*! Relleno de Color De Trazo Estilo de Trazo
 
 Dibujo original que vamos a modifcar: (un circulo)
 
@@ -107,6 +111,8 @@ Dibujo modificado en BlancoYNegro.
 
 ## Curvas y Líneas  (Bézier) 🐽 🐷
 
+!* Hecho con Curvas Y Líneas
+
 Dibujo de CurvasYLinias.
 
 ![](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/35e456c30e08b8336cfa217698c183064917bab5/CURVASYLINIAS.svg)
@@ -114,6 +120,8 @@ Dibujo de CurvasYLinias.
 ![Circuito05](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-03-25%2013-46-34.png)
 
 ## DibujoHarleyQuiin🐰🐭
+
+*! Dibujo de HarleyQuiin de mi segunda Pelicula de EscuadronSuicida.
 
 Esta es una imagen que he cogido de aquì: (https://static.posters.cz/image/750/poster/escuadron-suicida-harley-quinn-i30612.jpg)
 
@@ -123,11 +131,15 @@ Esta es una imagen que he cogido de aquì: (https://static.posters.cz/image/750/
 
 ## CORTE LÁSER JORDAN🐸🐎
 
+!* Corte Láser Jordan.
+
 ![Jordan](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/3b9fee5380f64a21eea83628adb8e04515045123/JORDANCORTEL%C3%81SER.svg)
 
 esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ## Underground🐢🦉
+
+!* Este es el Logo de UnderGround.
 
 ![Underground](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2010-48-00.png)
 
@@ -139,6 +151,8 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ## Mitsubshi Motors🐔🦄
 
+!* Este es el Logo de Mitsubshi Motors.
+
 ![Mitsubshi Motors](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/d793b498acb44b252ee8d7bd7d02b4fd8354b7aa/RELLANO%20COLOR%20DE%20TRAZO/mitsubishi%20motors.svg)
 
 ![Mitsubshi Motors](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2012-34-19MITSUBISHIMOTORS.png)
@@ -149,11 +163,15 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ## CirculoFagor🦋🐞
 
+!* Este es el CirculoDeFagor
+
 ![CirculoFagor](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/dea123bf0cce02472687e54ee16adfd4d3caea8a/RELLANO%20COLOR%20DE%20TRAZO/CirculoFAGOR.svg)
 
 ![CirculoFagorCapturaDePantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-08%2013-10-09.png)
 
 ### Nike🦎🦖
+
+!* Este es el Logo De Nike que hizimos en Inskape 
 
 ![Nike](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/78df3a4c6535882584f0ced6f71141b1e5545dbf/RELLANO%20COLOR%20DE%20TRAZO/NIKEVICTOR.svg)
 
@@ -161,6 +179,8 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ### MarcMarquez93🐣🦓
 
+ !* Este es mi piloto de MotoGp Favorito y le hize a mi hermana de regalo esto y como que le a gustado.
+ 
 ![MarcMarquez93](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/7751175055afcd95914ac235eead2333e7aa677a/RELLANO%20COLOR%20DE%20TRAZO/MarcMarquez93.svg)
 
 ![MarcMarquez93 Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-09%2013-21-30.png)
@@ -168,6 +188,8 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 ![MarcMarquez93PNG](https://vinilos-stica.es/90104-large_default/marquez-93-hormiga-paredes.jpg)
 
 ### Soldadura Y Fresado🦖🦍
+
+!* Este fue el dia k hizimos los concuns Soldadura Y Fresado nos gusto mucho ese dia y lo volveriamos a repetir.
 
 ![Soldadura Y Fresado1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(3).jpeg)
 
@@ -187,7 +209,7 @@ esta imagen es de Jordan y me gusta mucho porque me gusta por su fama.
 
 ![Soldadura Y Fresado9](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/WhatsApp%20Image%202021-04-15%20at%2010.37.27(2).jpeg)
 
-### Tipografía
+### Tipografía🐹🐮
 
 Tipografía funciona con numeros binarios y le tienes que decir si es Arial,Impact,Helveticm,TimeNewRoman...
 
@@ -198,6 +220,8 @@ Las tipografías son una definición grafica de caracteres
 .OTF = /Open Tai Fon/ Open Type Font 
 
 #### Letra De Harry Potter🦇 🦨
+
+!* Esta es una de las letras que me gusto más y por que las peliculas me gustan de Harry Potter 
 
 ![Letra De Harry Potter con mi Nombre Y apellido](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-19%2010-41-08.png)
 Mi Nombre y mi Apellido con las Letras De Harry Potter
@@ -210,6 +234,8 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 
 ### Citroen🐉🐲
 
+!* Este Logo es de un coche que se llama Citroen
+
 ![Citroen](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/5fde835e31b907274616e22f59405b6a88eaaeec/RELLANO%20COLOR%20DE%20TRAZO/CITROEN.svg)
 
 ![Citroen Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2009-47-43.png)
@@ -217,6 +243,8 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 ![Citroen Captura De Pantalla Letra](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2009-47-34.png)
 
 ### Nvidia🐁🐈
+
+!* Esta imagen es de un Logo de Nvidia
 
 ![Nvidia](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/NVIDIA.png)
 

@@ -213,3 +213,9 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 ![Citroen Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2009-47-43.png)
 
 ![Citroen Captura De Pantalla Letra](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2009-47-34.png)
+
+### Nvidia🐁🐈
+
+![Nvidia](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/NVIDIA.png)
+
+![Captura De Pantalla Nvidia](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2009-58-54.png)

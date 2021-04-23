@@ -32,7 +32,7 @@
 
 [Citroen🐉🐲](#citroen)
 
-[Nvidia](#nvidia🐁🐈)
+[Nvidia🐁🐈](#nvidia)
 
 ## Ejercicio conceptos🐧🦓
 

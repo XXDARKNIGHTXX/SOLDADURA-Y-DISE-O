@@ -249,3 +249,21 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 ![Nvidia](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/NVIDIA.png)
 
 ![Captura De Pantalla Nvidia](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2009-58-54.png)
+
+![Problema 1 del EXAMEN](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/b63dc0fef96379bf4198e3366fa52333fbd8551a/PROBLEMA1%20DE%20EXAMEN.svg)
+
+![Captura De Pantalla Paso1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-41-14.png)
+
+![Captura De Pantalla Paso2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-42-31.png)
+
+![Captura De Pantalla Paso3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-42-31.png)
+
+![Captura De Pantalla Paso4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-43-29.png)
+
+![Victor Mi Nombre](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/6a66bbedb95699d477c637232710e294c8fba6fc/VICTOR%20MI%20NOMBRE.svg)
+
+### Mi Nombre Victor Examen🐴🦥
+
+![Victor MI NOMBRE Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-05.png)
+
+![Victor MI NOMBRE Captura De Pantalla 1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-05.png)

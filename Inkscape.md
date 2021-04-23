@@ -34,6 +34,7 @@
 
 [Nvidia🐁🐈](#nvidia)
 
+[Problema 1 Examen🐦🐒](#problema-numero-1-examen)
 
 [Mi Nombre en el Examen Victor🐴🦥](mi-nombre-victor-examen)
 

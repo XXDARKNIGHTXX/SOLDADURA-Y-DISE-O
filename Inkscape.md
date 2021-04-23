@@ -34,6 +34,11 @@
 
 [Nvidia🐁🐈](#nvidia)
 
+
+[Mi Nombre en el Examen Victor🐴🦥](mi-nombre-victor-examen)
+
+
+
 ## Ejercicio conceptos🐧🦓
 
 ![Foto Emoji](https://github.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/blob/main/IMG_20210324_110022.jpg)
@@ -262,7 +267,20 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 
 ![Victor Mi Nombre](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/6a66bbedb95699d477c637232710e294c8fba6fc/VICTOR%20MI%20NOMBRE.svg)
 
-### Mi Nombre Victor Examen🐴🦥
+## Problema numero 1 Examen🦊🐧
+
+![Problema Numero 1 EXAMEN](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/bec6df4c78062f9f300cb64df8c92845d9c83d18/RELLANO%20COLOR%20DE%20TRAZO/PROBLEMA1%20DE%20EXAMEN.svg)
+
+![Problema Numero 1 Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2012-41-14.png)
+
+![Problema Numero Captura De Pantalla 2](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2012-41-14.png)
+
+![Problema Numero Captura De Pantalla 3](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2012-42-31.png)
+
+![Problema Numero Captura De Pantalla 4](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/RELLANO%20COLOR%20DE%20TRAZO/Captura%20de%20pantalla%20de%202021-04-23%2012-43-29.png)
+
+
+## Mi Nombre Victor Examen🐴🦥
 
 ![Victor MI NOMBRE Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-05.png)
 

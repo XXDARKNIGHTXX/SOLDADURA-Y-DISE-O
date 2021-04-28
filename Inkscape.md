@@ -38,6 +38,8 @@
 
 [Mi Nombre en el Examen Victor🐴🦥](mi-nombre-victor-examen)
 
+[Foto De MIMEJORAMIGO15🐙🐰](#foto-de-mi-mejoramigo15)
+
 
 
 ## Ejercicio conceptos🐧🦓
@@ -287,7 +289,7 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 
 ![Victor MI NOMBRE Captura De Pantalla 1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-05.png)
 
-## Foto De Mi MejorAmigo'15
+## Foto De Mi MejorAmigo'15🐰🐙
 
 ![FOTO DE MI MEJOR AMIGO 15](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/FOTOMEJORAMIGO15.png)
 

@@ -286,3 +286,9 @@ Pagina de todo tipo de letras las que querais las descargais gratuitamente ahi m
 ![Victor MI NOMBRE Captura De Pantalla](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-05.png)
 
 ![Victor MI NOMBRE Captura De Pantalla 1](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/Captura%20de%20pantalla%20de%202021-04-23%2012-59-05.png)
+
+## Foto De Mi MejorAmigo'15
+
+![FOTO DE MI MEJOR AMIGO 15](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/FOTOMEJORAMIGO15.png)
+
+![FOTO DE MI MEJOR AMIGO](https://raw.githubusercontent.com/XXDARKNIGHTXX/SOLDADURA-Y-DISE-O/main/IMG-20210216-WA0083.jpg)
